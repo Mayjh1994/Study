@@ -1,0 +1,9 @@
+  /**
+  * This is the first Codes in my github
+  * @author May Jahao
+  */
+  public class HelloGithub{
+    public static void main(String[] args){
+      System.out.println("Hello Github!");
+    }
+  }
